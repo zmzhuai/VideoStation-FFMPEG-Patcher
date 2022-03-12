@@ -28,9 +28,9 @@ This patcher is designed to simplify the installation steps from this [Gist](htt
 
 ## Usage
 Basic command:  
-`curl https://raw.githubusercontent.com/AlexPresso/VideoStation-FFMPEG-Patcher/main/patcher.sh | bash`   
+`curl https://raw.githubusercontent.com/zmzhuai/VideoStation-FFMPEG-Patcher/main/patcher.sh | bash`   
 With options:  
-`curl https://raw.githubusercontent.com/AlexPresso/VideoStation-FFMPEG-Patcher/main/patcher.sh | bash -s -- <option>`
+`curl https://raw.githubusercontent.com/zmzhuai/VideoStation-FFMPEG-Patcher/main/patcher.sh | bash -s -- <option>`
 
 | Options | Description |
 | ------ | ----------- |
